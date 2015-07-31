@@ -1,0 +1,150 @@
+#wants_jobs{
+  background: url("http://allabout3dprinting.com/wp-content/uploads/2013/07/3D_Printing_Jobs.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+#index{
+  background: url("http://www.lifemaideasy.us/wp-content/uploads/2012/08/errand-service.png");
+  background-size: cover;
+  text-align: center;
+}
+
+#dog_walking{
+  background-color: pink;
+  text-align: center;
+}
+
+.button {
+  background-color:gray;
+  text-align:center;
+  color:white;
+  border-style:solid;
+  border-color:gray;
+  border-width:10px;
+  border-height:10px;
+  border-radius:25px;
+  font-size:20px;
+  opacity:0.8;
+}
+.button:hover {
+  opacity:1;
+}
+
+#babysitter{
+  background-color: pink;
+  text-align: center;
+}
+
+#Laundry{
+  background-color: pink;
+  text-align: center;
+}
+
+#Tutoring{
+  background-color: pink;
+  text-align: center;
+}
+
+#Pet_Feeding {
+  background-color: pink;
+  text-align: center;
+}
+
+#needs_someone {
+  background: url("http://www.batcopetsitting.com/wp-content/uploads/2015/03/austin-errand-service.jpg");
+  background-size: cover;
+  text-align: center;
+}
+
+#Plant_Watering {
+  background-color: pink;
+  text-align: center;
+}
+
+
+#Grocery_Shopping {
+  background-color: pink;
+  text-align: center;
+}
+
+#Tutoring_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#babysitter_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#Dog_Walking_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#Pet_Feeding_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#Plant_Watering_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#Laundry_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#Grocery_Shopping_results{
+  background-color: #FF6666;
+    text-align: center;
+}
+
+#About_us{
+  background-color: #66CCFF;
+    text-align: center;
+}
+
+#read_babysitter_results{
+  background-color: #FF6666;
+  text-align: center;
+}
+
+#read_laundry_results{
+  background-color:#FF6666;
+  text-align: center;
+}
+
+#read_tutoring_results{
+  background-color: #FF6666;
+  text-align: center;
+}
+
+#read_pet_feeding_results {
+  background-color: #FF6666;
+  text-align: center;
+}
+
+
+#read_plant_watering_results {
+  background-color: #FF6666;
+  text-align: center;
+}
+
+
+#read_grocery_shopping_results {
+  background-color: #FF6666;
+  text-align: center;
+}
+
+
+#read_dog_walking_results {
+  background-color: #FF6666;
+    text-align: center;
+}
+
+
+
